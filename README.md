@@ -1,9 +1,7 @@
 learn
 ================
 
-__This is a project aims to help make the classes that I take easier to understand and learn from, offering a students perspective to other students.__
-
-
+__A project that aims to help make the classes that I took easier to understand and learn from, offering a student's perspective to other students.__
 
 
 
