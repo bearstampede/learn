@@ -12,5 +12,6 @@ Similar Projects
 ---------------------
 
 + [HTML + CSS](http://fieldguide.andrewbrinker.com/)
-+ [Probabilty Theory](http://www.youtube.com/user/ArbitraryLabs) (Video)
++ [Machine Structures](https://github.com/gtfierro/cheatsheets/tree/master/CS61C) [CS61C]
++ [Probabilty Theory](http://www.youtube.com/user/ArbitraryLabs) (YouTube) [CS70]
 + [Physics](https://github.com/yuanchenyang/Physics-Notes)
