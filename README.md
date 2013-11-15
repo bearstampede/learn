@@ -1,4 +1,12 @@
-Open Data Structures
+learn
 ================
 
-This is a project that helps to summarize courses at UC Berkeley with the aid of Summaries and Cheat Sheets. In an attempt to have others add to this repository I have made this repo. Feel free to fork and request to merge your own.
+__This is a project aims to help make the classes that I take easier to understand and learn from, offering a students perspective to other students.__
+
+
+
+Similar Projects
+---------------------
+
++ [Physics](https://github.com/yuanchenyang/Physics-Notes)
++ [Probabilty Theory](http://www.youtube.com/user/ArbitraryLabs) (Video)
