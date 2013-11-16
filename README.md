@@ -20,7 +20,7 @@ Some resources are kept in this repository itself. The ones that are will be mar
 
 ### Physics
 
-- [Physics][physicsnotes]
+- [Physics Notes Repository][physicsnotes]
 
 
 [fieldguide]: http://fieldguide.andrewbrinker.com "The Front End Development Field Guide"
