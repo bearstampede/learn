@@ -20,8 +20,8 @@ This is a project to collect good resources for a bevy of different computer sci
 - [Physics][physicsnotes]
 
 
-[fieldguide] http://fieldguide.andrewbrinker.com "The Front End Development Field Guide"   
-[machinestructures] https://github.com/gtfierro/cheatsheets/tree/master/CS61C "A cheatsheet for machine structures"   
-[arbitrarylabs] http://www.youtube.com/user/ArbitraryLabs "Videos on Probability Theory"   
-[physicsnotes] https://github.com/yuanchenyang/Physics-Notes "Student notes on Physics"   
+[fieldguide]: http://fieldguide.andrewbrinker.com "The Front End Development Field Guide"
+[machinestructures]: https://github.com/gtfierro/cheatsheets/tree/master/CS61C "A cheatsheet for machine structures"
+[arbitrarylabs]: http://www.youtube.com/user/ArbitraryLabs "Videos on Probability Theory"
+[physicsnotes]: https://github.com/yuanchenyang/Physics-Notes "Student notes on Physics"
 
