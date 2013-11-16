@@ -12,6 +12,7 @@ Some resources are kept in this repository itself. The ones that are will be mar
 
 - [Front End Development Field Guide][fieldguide]
 - [Machine Structures Cheat Sheet][machinestructures]
+- [Data Structures Notes][datastructuresnotes] `(local)`
 
 ### Mathematics
 
@@ -24,6 +25,7 @@ Some resources are kept in this repository itself. The ones that are will be mar
 
 [fieldguide]: http://fieldguide.andrewbrinker.com "The Front End Development Field Guide"
 [machinestructures]: https://github.com/gtfierro/cheatsheets/tree/master/CS61C "A cheatsheet for machine structures"
+[datastructuresnotes]: https://github.com/kcparashar/learn/raw/master/resources/computer-science/data-structures.pdf "Data Structures notes"
 [arbitrarylabs]: http://www.youtube.com/user/ArbitraryLabs "Videos on Probability Theory"
 [physicsnotes]: https://github.com/yuanchenyang/Physics-Notes "Student notes on Physics"
 
