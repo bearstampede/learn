@@ -4,6 +4,8 @@
 
 This is a project to collect good resources for a bevy of different computer science, computer engineering, mathematics, and physics related topics. These resources are listed below, and organized by topic.
 
+Some resources are kept in this repository itself. The ones that are will be marked `(local)`.
+
 ## Resources
 
 ### Computer Science
