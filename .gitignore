@@ -1,0 +1,8 @@
+# Avoid rich text documents like this. Prefer Markdown, TeX, or PDF.
+# Krishna, feel free to overrule me on this.
+
+.doc
+.docx
+.odt
+.pages
+
